@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgettersan&" alt="forgettersan" /></p>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ForGetterSan/ForGetterSan/blob/output/github-contribution-grid-snake.gif)
