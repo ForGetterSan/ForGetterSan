@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgettersan&" alt="forgettersan" /></p>
 
+![snake gif](https://github.com/ForGetterSan/ForGetterSan/blob/output/github-snake-dark.svg)
