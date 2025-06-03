@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmy-code&psig=AOvVaw1F0K21UWLrVE89LGNYBJ7W&ust=1749024693429000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCxxebm1I0DFQAAAAAdAAAAABAE))
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmy-code&psig=AOvVaw1F0K21UWLrVE89LGNYBJ7W&ust=1749024693429000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCxxebm1I0DFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Mehmet Sait Bingöl</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
